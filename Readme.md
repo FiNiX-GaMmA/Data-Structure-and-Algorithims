@@ -2,9 +2,7 @@
 ### as taught in GeeksForGeeks.
 
 ## author @FiNiX-GaMmA 
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+[![Testing](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
 
 I have tried to write the codes in **_python_** language whereas the course taught the languages in _C,C++and Java_.
 
