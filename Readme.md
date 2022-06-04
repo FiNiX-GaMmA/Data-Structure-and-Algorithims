@@ -1,7 +1,10 @@
 # Data Structures and Algorithm
 ### as taught in GeeksForGeeks.
 
-## author @FiNiX-GaMmA
+## author @FiNiX-GaMmA 
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 I have tried to write the codes in **_python_** language whereas the course taught the languages in _C,C++and Java_.
 
