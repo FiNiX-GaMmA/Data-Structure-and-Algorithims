@@ -23,9 +23,11 @@ class palindrome {
 
 	public static void main (String[] args) {
 		
-		int number = 4553;
+		Scanner sc = new Scanner(System.in);
+		int number = sc.nextInt();
 
 		System.out.println(isPal(number));
+		sc.close();
 
 	}
 }
