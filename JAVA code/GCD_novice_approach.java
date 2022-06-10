@@ -1,5 +1,4 @@
 import java.util.*;
-import java.math.*;
 public class GCD_novice_approach {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
