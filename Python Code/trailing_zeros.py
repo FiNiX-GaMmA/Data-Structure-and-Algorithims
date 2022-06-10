@@ -16,18 +16,25 @@ def trailing_zero(n):
         rem =ans % 10
         count+=1
         ans = ans//10
+
     return count-1
 
-def better_trailing_zeros(n):
-    ans = 0
-    i = 1
-    for i in range(5,n):
-        ans += n/i
-        i*=5
-    return ans
+
+
+
+
+#THE CODE BELOW NEEDS TO BE FIXED
+
+#def better_trailing_zeros(n):
+    #ans = 0
+    #i = 1
+    #for i in range(5,n):
+    #    ans += n/i
+    #    i*=5
+    #return ans
 
 
 
 n = int(input())
 print("No of zeros are: ",trailing_zero(n))
-print("No of zeros are: ",better_trailing_zeros(n))
+#print("No of zeros are: ",better_trailing_zeros(n))
