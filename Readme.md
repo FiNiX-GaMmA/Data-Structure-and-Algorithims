@@ -13,3 +13,8 @@ I will make specific folders for the 2 languages i am fluent in i.e. **JAVA** an
 Contents:-
 
     1. Finding the number of digits in a number.
+    2. Palindrome
+    3. Foctorila of a number
+    4. Trailing numbers of seros in a factorial
+    5. GCD of a number
+    6. LCM of a number
