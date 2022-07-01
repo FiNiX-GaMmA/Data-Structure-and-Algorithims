@@ -8,4 +8,3 @@
 | GCD of a number | Using Euclidean ALgorithm which states GCD(a,b) = GCD(a-b,b) and we do this in a recursive call|O(log(min(a,b)))|
 | LCM of a number | The max LCM can be (axb) and the _min_ **LCM** can be the max(a,b) and run a loop where we find a number which leaves a remainder of 0 when divided by both the number. **A better sol is possible and written in the JAVA segment**  | O((a*b) - max(a,b)) time is taken|
 |Plaindrome using recursion|**Medthod 1** i used recursion to reverse the string and then i chekcked if the ssrings are same or not| T(n) = T(n-1)+O(1) time taken|
-|Palindrome using recursion|**Method 2** I used recursion to check the first and last letters recursively and if they are same i returned palindrome else not|T(n) = T(n-1)+O(1) time taken|
