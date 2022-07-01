@@ -18,3 +18,4 @@ Contents:-
     4. Trailing numbers of seros in a factorial
     5. GCD of a number
     6. LCM of a number
+    7. Palindrome in Strings using recursion
